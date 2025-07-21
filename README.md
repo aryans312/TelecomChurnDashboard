@@ -1,4 +1,4 @@
-# Telecom Customer ChurnvDashboard
+# Telecom Customer Churn Dashboard
 
 This repository contains a visual dashboard analyzing customer churn patterns for Bharti Airtel. The dashboard explores key metrics and trends related to customer retention, revenue impact, and service usage.
 
